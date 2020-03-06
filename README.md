@@ -12,6 +12,7 @@
 | [知乎专栏](https://zhuanlan.zhihu.com/MachineLearn) |
 | [斯坦福大学 CS229 课程网站](http://cs229.stanford.edu/) |
 | [网易公开课中文字幕视频](http://open.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html) |
+|https://www.jianshu.com/p/b67505c62329|
 
 我（@CycleUser）的身体状况短期内无法分散精力来继续 Markdown 的制作，而 @飞龙 不断翻译新内容才更是一种有利于广大朋友获取新技能新知识的好思路，他的精力如果用于对旧文档的维护，则是相当的浪费，很不划算。
 
